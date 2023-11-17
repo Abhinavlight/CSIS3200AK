@@ -1,2 +1,1 @@
-# CSIS3200AK
-First repo
+*This is a test project*
